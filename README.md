@@ -27,4 +27,4 @@ Documentation can be found in [docs](./docs) folder of the repository
 Licensed under [MIT License](./LICENSE)
 
   <!-- - Use this html element to create a back to top button. -->
-<p align="right"><a href="#how-to-use-this-project">back to top ⬆️</a></p>
+<p align="right"><a href="#about">back to top ⬆️</a></p>
