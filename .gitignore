@@ -1,5 +1,6 @@
 release/weights_test_model_val_0.43_240.weights.h5
-release/build*
+/release/[Bb]uild/
+/release/[Bb]uilds/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/unity
@@ -12,8 +13,8 @@ release/build*
 /plane_game/[Ll]ibrary/
 /plane_game/[Tt]emp/
 /plane_game/[Oo]bj/
-*[Bb]uild*/
-*[Bb]uilds/
+/plane_game/[Bb]uild/
+/plane_game/[Bb]uilds/
 /plane_game/[Ll]ogs/
 /plane_game/[Uu]ser[Ss]ettings/
 
