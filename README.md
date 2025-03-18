@@ -19,6 +19,12 @@ Airplane flight control via hand gestures using neural network. Control an airpl
 
 1. **Python Setup**
    ```bash
+   # Create a virtual environment
+   python3.11 -m venv venv
+
+   # Activate the virtual environment
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
    # Install Python dependencies
    pip install tensorflow==2.17.1
    pip install numpy
