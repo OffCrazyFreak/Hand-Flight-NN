@@ -1,6 +1,5 @@
 release/weights_test_model_val_0.43_240.weights.h5
-/release/[Bb]uild/
-/release/[Bb]uilds/
+/release/[Bb]uild*/
 venv
 
 # Created by https://www.toptal.com/developers/gitignore/api/unity
